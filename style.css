@@ -2,8 +2,8 @@ body{
     background-image: url(weather.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height:100%;
-    width:100%;
+    
+ 
 }
 .clock{
     background:rgb(232, 232, 240);
@@ -176,9 +176,7 @@ footer{
     font-style: italic;
     font-weight: bold;
     font-size: 20px;
-    position:absolute;
-    bottom:0px;
-    width:100%;
+    margin-top:110px;
 }
 
 .grid-container {
