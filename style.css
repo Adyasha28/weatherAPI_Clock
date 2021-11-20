@@ -178,8 +178,6 @@ footer{
     font-size: 20px;
     margin-top:160px;
     height:90px;
-    display:flex;
-    align-item:center;
 }
 
 .grid-container {
