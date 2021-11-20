@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height:100vh;
+    overflow:hidden;
 }
 .clock{
     background:rgb(232, 232, 240);
